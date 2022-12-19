@@ -46,11 +46,14 @@ d) ChartJS: For data visualisation
 ## SCREENSHOTS
 
 1) Homepage  
+
 ![image](https://user-images.githubusercontent.com/102078863/208434977-6fee74d7-722c-455c-8708-fd5d34e56814.png)
 
-2) Selecting the demo CSV file  
+2) Selecting the demo CSV file 
+ 
 ![image](https://user-images.githubusercontent.com/102078863/208435318-1b20d471-e57a-42ef-8400-83b316936894.png)
 
 3) After sumbitting  
+
 ![final ](https://user-images.githubusercontent.com/102078863/208435974-7aa7fb36-8429-4525-9869-23312352b956.jpg)
 
