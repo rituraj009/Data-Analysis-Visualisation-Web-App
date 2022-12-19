@@ -33,4 +33,14 @@ d) ChartJS: For data visualisation
       ```  
    b) using chart.js CDN Files
 
+##How to RUN the PROJECT
+###Follow the following steps
+1) Downnload the file and look for mysite folder  
+2) run manage.py file using the command 
+```bash
+  python manage.py runserver 
+```
+3) copy and paste the local ulr link and add '/hello' to it.  
+4) Demo CSV file has been provides in the folder example.  
 
+##SCRENSHOTS
