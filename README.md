@@ -31,8 +31,8 @@ Install the following requirement using pip commands
 3) pandas
 4) chartjs (using Chart.js.CDN)
 
-*--> open the mysite folder**
-*--> run manag.py file by typing**
+#--> open the mysite folder
+#--> run manag.py file by typing
 
 
 
