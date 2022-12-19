@@ -24,13 +24,15 @@ d) ChartJS: For data visualisation.
 4) Finally, displaying the data in terms of charts for data visualisation. 
 5) Using library called ChartJS to display data on the webpage.
 
-**How to RUN the PROJECT**
+**HOW TO RUN THE PROJECT**
 Install the following requirement using pip commands
 1) Python 3.8 or higher
 2) django 3.2 
 3) pandas
 4) chartjs (using Chart.js.CDN)
 
+*--> open the mysite folder**
+*--> run manag.py file by typing**
 
 
 
