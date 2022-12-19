@@ -40,7 +40,11 @@ d) ChartJS: For data visualisation
 ```bash
   python manage.py runserver 
 ```
-3) copy and paste the local ulr link and add '/hello' to it.  
+3) Copy and paste the local ulr link and add '/hello' to it.  
 4) Demo CSV file has been provides in the folder example.  
 
-## SCRENSHOTS
+## SCREENSHOTS
+
+1) Homepage 
+![image](https://user-images.githubusercontent.com/102078863/208434977-6fee74d7-722c-455c-8708-fd5d34e56814.png)
+
