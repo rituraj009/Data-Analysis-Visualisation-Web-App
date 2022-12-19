@@ -27,7 +27,7 @@ d) ChartJS: For data visualisation
   pip install pandas 
 ```
 4) CharJS  
-   a) 
+   a) Install using pip command
       ```bash
         npm install chart.js
       ```  
