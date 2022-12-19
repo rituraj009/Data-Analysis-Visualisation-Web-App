@@ -8,7 +8,6 @@
 4) Finally, displaying the data in terms of charts for data visualisation. 
 5) Using library called ChartJS to display data on the webpage.
 
-
 ## Technologies Used
 a) Python : Programming Language    
 b) Django : For web based app  
@@ -33,3 +32,5 @@ d) ChartJS: For data visualisation
         npm install chart.js
       ```  
    b) using chart.js CDN Files
+
+
