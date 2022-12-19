@@ -11,9 +11,9 @@
 
 ## Technologies Used
 a) Python : Programming Language    
-b) Django : For web based app
-c) Pandas: For data analysis
-d) ChartJS: For data visualisation
+b) Django : For web based app  
+c) Pandas: For data analysis  
+d) ChartJS: For data visualisation  
 
 
 ## Installation
