@@ -33,8 +33,9 @@ d) ChartJS: For data visualisation.
   pip install pandas 
 ```
 4) CharJS
-a) 
-   ```bash
-  npm install chart.js
-   ```
+
+a) by using pip command
+```bash
+  pip install pandas 
+```
 b) using chart.js CDN Files
