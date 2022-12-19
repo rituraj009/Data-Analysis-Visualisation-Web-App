@@ -33,7 +33,7 @@ d) ChartJS: For data visualisation.
   pip install pandas 
 ```
 4) CharJS
-   ]a) 
+a) 
    ```bash
   npm install chart.js
    ```
