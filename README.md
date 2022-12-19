@@ -15,7 +15,6 @@ b) Django : For web based app
 c) Pandas: For data analysis  
 d) ChartJS: For data visualisation  
 
-
 ## Installation
 
 1) Python 3.6 or higher
