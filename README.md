@@ -25,6 +25,7 @@ d) ChartJS: For data visualisation.
 5) Using library called ChartJS to display data on the webpage.
 
 **HOW TO RUN THE PROJECT**
+
 Install the following requirement using pip commands
 1) Python 3.8 or higher
 2) django 3.2 
