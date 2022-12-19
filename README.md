@@ -10,19 +10,15 @@
 
 
 ## Technologies Used
-a) Python : Programming Language
-
-b) Django : For web based app.
-
-c) Pandas: For data analysis.
-
-d) ChartJS: For data visualisation.
+a) Python : Programming Language    
+b) Django : For web based app
+c) Pandas: For data analysis
+d) ChartJS: For data visualisation
 
 
 ## Installation
 
 1) Python 3.6 or higher
-
 2) Django 
 
 ```bash
@@ -32,10 +28,9 @@ d) ChartJS: For data visualisation.
 ```bash
   pip install pandas 
 ```
-4) CharJS
-
-a) by using pip command
-```bash
-  pip install pandas 
-```
-b) using chart.js CDN Files
+4) CharJS  
+   a) 
+      ```bash
+        npm install chart.js
+      ```  
+   b) using chart.js CDN Files
