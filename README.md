@@ -31,7 +31,7 @@ d) ChartJS: For data visualisation
       ```bash
         npm install chart.js
       ```  
-   b) using chart.js CDN Files
+   b) using chart.js CDN Files directly
 
 ## How to RUN the PROJECT
 ### Follow the following steps
