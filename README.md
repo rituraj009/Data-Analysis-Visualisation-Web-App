@@ -21,18 +21,20 @@ d) ChartJS: For data visualisation.
 
 ## Installation
 
-Install the following requirement using pip commands or downlown them directly
-1) Python 3.8 or higher
-2) django 3.2
+1) Python 3.6 or higher
+
+2) Django 
 
 ```bash
-pip install django version==3.2
+  pip install django==3.2
 ```
-3) pandas
+3) Pandas 
 ```bash
-
-   
-4) chartjs (using Chart.js.CDN)
-
-
-    
+  pip install pandas 
+```
+4) CharJS
+   ]a) 
+   ```bash
+  npm install chart.js
+   ```
+b) using chart.js CDN Files
