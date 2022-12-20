@@ -16,7 +16,7 @@ d) ChartJS: For data visualisation
 
 ## Installation
 
-1) Python 3.6 or higher
+1) Python xx < 3.9
 2) Django 
 
 ```bash
@@ -30,7 +30,7 @@ d) ChartJS: For data visualisation
    a) Install using pip command 
    
       ```bash
-        npm install chart.js
+        pip install chart.js
       ```  
    b) using chart.js CDN Files directly
 
