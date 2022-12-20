@@ -16,7 +16,7 @@ d) ChartJS: For data visualisation
 
 ## Installation
 
-1) Python xx < 3.9
+1) Python x.x < 3.9
 2) Django 
 
 ```bash
